@@ -1,0 +1,23 @@
+body{
+           width:50%;
+           margin:auto;
+           text-align:center;
+           border:5px solid black;
+           height:900px;
+           padding:30px;
+           background-color:#ffdf80;
+}
+
+#latestnews{
+width:49.3%;
+float:left;
+height:140px;
+border:2px solid black;
+}
+
+#aboutus{
+width:49.3%;
+float:right;
+height:140px;
+border:2px solid black;
+}
